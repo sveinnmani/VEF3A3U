@@ -1,0 +1,133 @@
+body {
+	position: absolute;
+	background: url('../img/steveback.png');
+    background-size: 760px 700px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;	
+	background-position: bottom left;
+}
+.stevepic {
+    background: url('../img/stevejobs.jpg');    
+	margin: px 30px;
+}
+div.outerbio {
+	position: relative;
+	height: 780px;
+	width: 1920px; 
+    
+}
+
+
+.bio {
+
+	position: absolute;
+	top: 10px;		
+	left: 550px;
+	right: 100px;
+	text-align: center;
+	font-family: 'Arvo', serif;
+	font-size: 20px;
+
+}/*
+.bakgrunnur {
+	background: url('../img/steveback.png');
+    background-size: 1086px 1000px;
+	background-repeat: no-repeat;	
+}*/
+.index {
+	position: relative;
+	height: 780px;
+	width: 1920px;    
+}
+.quote {
+	position: absolute;
+	top: 225px;	
+	left: 550px;
+	right: 400px;
+	
+	font-family: 'Arvo', serif;
+	font-size: 28px;
+}
+.name {
+	position: absolute;
+	top: 400px;	
+	left: 550px;
+	right: 400px;
+	
+	font-family: 'Arvo', serif;
+	font-size: 35px;
+}
+.galleryOver {
+	position: relative;
+	height: 780px;
+	width: 1920px;
+}
+div.gallery1 {
+	position: absolute;
+	top: 10px;
+	right: 5px;
+	background-image: url("../img/steve1.jpg");
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 600px;
+    height: 400px;
+    
+}
+
+div.gallery1:hover {
+    border: 1px solid #777;
+}
+div.gallery2 {
+	position: absolute;
+	top: 415px;
+	right: 5px;
+	background-image: url("../img/steve2.jpg");
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 600px;
+    height: 400px;
+    
+}
+
+div.gallery2:hover {
+    border: 1px solid #777;
+}
+div.gallery3 {
+	position: absolute;
+	top: 820px;
+	right: 5px;
+	background-image: url("../img/steve3.jpg");
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 600px;
+    height: 400px;
+    
+}
+
+div.gallery3:hover {
+    border: 1px solid #777;
+}
+div.gallery4 {
+	position: absolute;
+	top: 1225px;
+	right: 5px;
+	background-image: url("../img/steve4.jpg");
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 600px;
+    height: 400px;
+    
+}
+
+div.gallery4:hover {
+    border: 1px solid #777;
+}
+
+/*div.desc {
+    padding: 15px;
+    text-align: center;
+}*/
