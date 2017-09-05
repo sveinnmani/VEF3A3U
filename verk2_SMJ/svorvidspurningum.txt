@@ -1,0 +1,6 @@
+1.) 
+Dynamic routing væri útfært með því að búa til Controller, þar inni væru skrifuð 10 föll, eitt fyrir hverja "undirsíðu". Í hverju falli er kallað í þrjár skrár, header og footer sem er í öllum föllunum og svo aðal efni undirsíðanna. Í stað þess að kalla alltaf á skrá þá er urlinu breytt í nafnið á Controllerinum og nafninu á föllunum. 
+
+2.)
+Þegar client-side routing er notuð þarf að endurhlaða alla síðuna í hvert skipti sem notandi ætlar að fara milli síða.
+Back-end routing þarf ekki alltaf að endurhlaða þegar skipt er um síður.
