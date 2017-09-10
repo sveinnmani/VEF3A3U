@@ -1,0 +1,7 @@
+1.)
+Hönnunar mynstur er endurtakanlegar lausnir í algengum villum í vefhönnun.
+
+2.) 
+MVC stendur fyrir Model-view-controller. Notandinn sér view, notar controllerinn á meðan modelið uppfærir view.
+
+3.)
